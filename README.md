@@ -41,7 +41,6 @@ The analysis incorporates five datasets, comprising of three source data and two
 
 *BusinessCase_Tx*: This dataset plays a significant role throughout the analysis and includes information on transaction descriptions, currency amounts, origination date-time, customer ID, merchant ID, account ID, and category tags. The transactions occurred between March 1, 2018, and November 1, 2018.
 
-
 #### Target Data:
 *RFM SCORE*: This dataset represents the filtered and calculated values derived from the original transaction data using the RFM methodology. It includes columns for customer ID, recent purchase date, monetary value, and frequency.
 
@@ -55,15 +54,13 @@ The analysis incorporates five datasets, comprising of three source data and two
 ![RFM Dashboard](https://github.com/connieyeee/Case-Marketing-CRM-RFM-Dashboard/assets/134975561/d84b9377-c86c-46cc-9ea7-5bcc1fb17172)
 
 ### Dashboard Highlights:<a name="dashboard-highlights"></a>
-####**Matrix**: The dashboard provides valuable customer segmentation (left corner of dashboard), enabling targeted and effective marketing campaigns.
-####**R-F-M Score**: The dashboard provides the Recency, Frequency, and Monetary (R-F-M) scores for customers, enabling the marketing team to identify key insights about customer behavior and preferences, leading to personalized and targeted campaigns.
+- **Matrix**: The dashboard provides valuable customer segmentation (left corner of dashboard), enabling targeted and effective marketing campaigns.
+- **R-F-M Score**: The dashboard provides the Recency, Frequency, and Monetary (R-F-M) scores for customers, enabling the marketing team to identify key insights about customer behavior and preferences, leading to personalized and targeted campaigns.
 
 ## 7. Lesson Learned <a name="lessons-learned"></a>
-1. **Effective Segmentation**: Implementing customer segmentation, as demonstrated by the matrix, proved to be a powerful approach in tailoring marketing strategies for different customer groups.
-
-2. **Importance of R-F-M Analysis**: The R-F-M analysis provided valuable insights into customer behavior and preferences, enabling personalized communication and targeted campaigns.
-
-3. **Personalization Yields Results**: Personalized communication and targeted campaigns based on the R-F-M scores led to enhanced customer engagement and loyalty.
+- **Effective Segmentation**: Implementing customer segmentation, as demonstrated by the matrix, proved to be a powerful approach in tailoring marketing strategies for different customer groups.
+- **Importance of R-F-M Analysis**: The R-F-M analysis provided valuable insights into customer behavior and preferences, enabling personalized communication and targeted campaigns.
+- **Personalization Yields Results**: Personalized communication and targeted campaigns based on the R-F-M scores led to enhanced customer engagement and loyalty.
 
 
 
