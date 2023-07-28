@@ -47,7 +47,7 @@ The analysis incorporates five datasets, comprising of three source data and two
 *Segmentations*: This dataset is designed to assign names and descriptions to each segment based on different R-F-M scores. It provides information on the R-F-M score, segment name, description, and sorting.
 
 ## 5. Model Simulation <a name="model-simulation"></a>
-![Picture1](https://github.com/connieyeee/Case-Marketing-CRM-RFM-Dashboard/assets/134975561/2c23b381-6b70-4661-b2b9-34a8221dc7b5)
+![屏幕截图 2023-07-28 172957](https://github.com/connieyeee/Case-Marketing-CRM-RFM-Dashboard/assets/134975561/bcf1ad69-c554-4de2-9871-8229a12a2ac0)
 
 ## 6. Results <a name="results"></a>
 #### Proof of Concept Dashboard Design:<a name="proof-of-concept-dashboard-design"></a>
