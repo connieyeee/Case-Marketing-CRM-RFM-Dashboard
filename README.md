@@ -28,7 +28,7 @@ XYZ Bank is a prominent financial institution with over 1000 branches spread acr
 - **Audience**: Business – CRM Department
 - **Security Parameters**: ALL Executives
 
-## 3. RFM Dashboard Lifecycle <a name="rfm-dashboard-proof-of-concept"></a>
+## 3. RFM Dashboard Lifecycle <a name="rfm-dashboard-lifecycle"></a>
 <img width="805" alt="238653169-83047e77-a0b1-4bf5-95cc-ed5a4f3e461a" src="https://github.com/connieyeee/Case-Marketing-CRM-RFM-Dashboard/assets/134975561/c06df641-03a7-41e6-8471-b52d7b76cd15">
 
 ## 4. Dataset <a name="dataset"></a>
