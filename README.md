@@ -39,13 +39,13 @@ The analysis incorporates five datasets, comprising of three source data and two
 
 *BusinessCase_Custs*: This dataset provides customer-related details such as ID, gender, birth date, work activity, occupation, total income, habitation status, and school attendance.
 
-```BusinessCase_Tx: This dataset plays a significant role throughout the analysis and includes information on transaction descriptions, currency amounts, origination date-time, customer ID, merchant ID, account ID, and category tags. The transactions occurred between March 1, 2018, and November 1, 2018.
+*BusinessCase_Tx*: This dataset plays a significant role throughout the analysis and includes information on transaction descriptions, currency amounts, origination date-time, customer ID, merchant ID, account ID, and category tags. The transactions occurred between March 1, 2018, and November 1, 2018.
 
 
-### Target Data:
--RFM SCORE: This dataset represents the filtered and calculated values derived from the original transaction data using the RFM methodology. It includes columns for customer ID, recent purchase date, monetary value, and frequency.
+#### Target Data:
+*RFM SCORE*: This dataset represents the filtered and calculated values derived from the original transaction data using the RFM methodology. It includes columns for customer ID, recent purchase date, monetary value, and frequency.
 
--Segmentations: This dataset is designed to assign names and descriptions to each segment based on different R-F-M scores. It provides information on the R-F-M score, segment name, description, and sorting.
+*Segmentations*: This dataset is designed to assign names and descriptions to each segment based on different R-F-M scores. It provides information on the R-F-M score, segment name, description, and sorting.
 
 ## 5. Model Simulation <a name="model-simulation"></a>
 ![Picture1](https://github.com/connieyeee/Case-Marketing-CRM-RFM-Dashboard/assets/134975561/2c23b381-6b70-4661-b2b9-34a8221dc7b5)
