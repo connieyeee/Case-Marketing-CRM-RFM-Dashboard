@@ -28,3 +28,4 @@ XYZ Bank is a prominent financial institution with over 1000 branches spread acr
 - **Security Parameters**: ALL Executives
 
 ## 3.RFM Dashboard Lifecycle
+https://user-images.githubusercontent.com/132826012/238653169-83047e77-a0b1-4bf5-95cc-ed5a4f3e461a.png
