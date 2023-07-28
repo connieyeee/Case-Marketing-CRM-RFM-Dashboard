@@ -39,7 +39,7 @@ The analysis incorporates five datasets, comprising of three source data and two
 
 *BusinessCase_Custs*: This dataset provides customer-related details such as ID, gender, birth date, work activity, occupation, total income, habitation status, and school attendance.
 
-*BusinessCase_Tx*: This dataset plays a significant role throughout the analysis and includes information on transaction descriptions, currency amounts, origination date-time, customer ID, merchant ID, account ID, and category tags. The transactions occurred between March 1, 2018, and November 1, 2018.
+```BusinessCase_Tx: This dataset plays a significant role throughout the analysis and includes information on transaction descriptions, currency amounts, origination date-time, customer ID, merchant ID, account ID, and category tags. The transactions occurred between March 1, 2018, and November 1, 2018.
 
 
 ### Target Data:
