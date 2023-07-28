@@ -64,7 +64,6 @@ The analysis incorporates five datasets, comprising of three source data and two
 2. **Importance of R-F-M Analysis**: The R-F-M analysis provided valuable insights into customer behavior and preferences, enabling personalized communication and targeted campaigns.
 
 3. **Personalization Yields Results**: Personalized communication and targeted campaigns based on the R-F-M scores led to enhanced customer engagement and loyalty.
-This summary focuses on the key lessons related to customer segmentation, the 
 
 
 
