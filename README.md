@@ -50,10 +50,10 @@ The analysis incorporates five datasets, comprising of three source data and two
 ![Picture1](https://github.com/connieyeee/Case-Marketing-CRM-RFM-Dashboard/assets/134975561/2c23b381-6b70-4661-b2b9-34a8221dc7b5)
 
 ## 6. Results <a name="results"></a>
-### Proof of Concept Dashboard Design:<a name="proof-of-concept-dashboard-design"></a>
+#### Proof of Concept Dashboard Design:<a name="proof-of-concept-dashboard-design"></a>
 ![RFM Dashboard](https://github.com/connieyeee/Case-Marketing-CRM-RFM-Dashboard/assets/134975561/d84b9377-c86c-46cc-9ea7-5bcc1fb17172)
 
-### Dashboard Highlights:<a name="dashboard-highlights"></a>
+#### Dashboard Highlights:<a name="dashboard-highlights"></a>
 - **Matrix**: The dashboard provides valuable customer segmentation (left corner of dashboard), enabling targeted and effective marketing campaigns.
 - **R-F-M Score**: The dashboard provides the Recency, Frequency, and Monetary (R-F-M) scores for customers, enabling the marketing team to identify key insights about customer behavior and preferences, leading to personalized and targeted campaigns.
 
