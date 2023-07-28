@@ -5,7 +5,7 @@ The data, content, and final delivery I shared on GitHub utilize mock-up data du
 
 1. [Introduction](#introduction)
 2. [Specifications](#specifications)
-3. [RFM Dashboard Proof of Concept](#rfm-dashboard-proof-of-concept)
+3. [RFM Dashboard Lifecycle](#rfm-dashboard-lifecycle)
 4. [Dataset](#dataset)
 5. [Model Simulation](#model-simulation)
 6. [Results](#results)
